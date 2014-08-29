@@ -1,0 +1,9 @@
+body {
+	margin: 50px 200px !important;
+}
+td {
+	border: 1px solid gray;
+	width: 10px;
+	height: 10px;
+	padding: 0px;
+}
